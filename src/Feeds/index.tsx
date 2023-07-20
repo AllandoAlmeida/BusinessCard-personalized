@@ -24,13 +24,13 @@ export const Feeds: React.FC = () => {
         <div className={styles.profileCardInner}>
           <div className={styles.profileCardFront}>
             <div className={styles.title}>
-              <h3>Rosilene M. Alves</h3>
+              <h3>Alando S.Almeida SB</h3>
               <span>Web Developer , BRA</span>
             </div>
           </div>
           <div className={styles.profileCardBack}>
-            <img src={image} alt="Image Rosilene M. Alves" />
-            <h3>Rosilene M. Alves</h3>
+            <img src={image} alt="Image Alando S.Almeida SB" />
+            <h3>Alando S.Almeida SB</h3>
             <span className={styles.job}>Web Developer</span>
             <div className={styles.social}>
               <span>
